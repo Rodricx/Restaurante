@@ -54,6 +54,7 @@ p{
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 2px;
+    transition: 0.2s;
 }
 
 .btn:hover{
@@ -313,6 +314,7 @@ section{
     background: url(images/bg3.jpg);
     background-size: cover;
 }
+
 
 .contactForm{
     padding: 75px 50px;
